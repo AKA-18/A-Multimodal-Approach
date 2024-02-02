@@ -4,6 +4,6 @@ For dataset access or inquiries, please contact g_jyothishlal@cb.amrita.edu (Dr.
 
 |Emotions | Audio File | Text |
 |---------|------------|------|
-|Angry| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/d5a10d39-301c-4a7b-86ff-2afb84a0cfcc) | [ഈ എരണം കെട്ടവൾ ഇവിടെ കാലുകുത്തിയാൽ അറിഞ്ഞു കടലിലിൽ തള്ളും]. |
-
+|Angry| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/d5a10d39-301c-4a7b-86ff-2afb84a0cfcc) | [ഈ എരണം കെട്ടവൾ ഇവിടെ കാലുകുത്തിയാൽ അറിഞ്ഞു കടലിലിൽ തള്ളും. |
+|---------|------------|------|
 
