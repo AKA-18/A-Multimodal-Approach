@@ -6,6 +6,19 @@ For dataset access or inquiries, please contact g_jyothishlal@cb.amrita.edu (Dr.
 |---------|------------|------|
 |Angry| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/d5a10d39-301c-4a7b-86ff-2afb84a0cfcc) | ഈ എരണം കെട്ടവൾ ഇവിടെ കാലുകുത്തിയാൽ അറിഞ്ഞു കടലിലിൽ തള്ളും. |
 |Angry| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/8e347a56-6b2a-4315-a82e-4ae0ef9b9431) | നീ ആരാടാ എന്നോട് എതിർക്കാൻ . |
+|Happy| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/230abd46-940e-4ea6-92eb-e35c5e225c24)| എൻ്റെ ഈശ്വരാ ഇത് ആരാ ഈ എഴുന്നള്ളിയിരിക്കുന്നത് എന്താണാവോ വിശേഷം.|
+|Happy|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/b1c80462-f285-42e6-a54d-1e88ede79992)|ഇത് കഴിച്ചു കഴിഞ്ഞു ചിരിച്ചാൽ പിന്നെ ചിരി നിർത്താൻ പറ്റില്ല.|
+|Neutral|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/62296f89-8fb3-4e20-b706-1b35938555d6)|ഒരിടത്ത് ഒരിടത്ത്  ഒരു ഗ്രാമത്തിൽ അമാവാസി എന്ന പേരയായ ഒരു ധനികൻ ഉണ്ടായിരുന്നു.| 
+
+
+
+
+
+
+
+
+
+
 
 
 
