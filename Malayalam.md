@@ -1,6 +1,6 @@
 We are pleased to share a sample dataset for Malayalam language, curated for emotion recognition research. The dataset comprises three key columns: Emotions, Audio Files, and Text Files. Each entry in the dataset has been meticulously annotated to facilitate the development and evaluation of emotion recognition algorithms. The full dataset is available upon request. Researchers and developers interested in obtaining the complete dataset for further exploration and analysis are invited to contact us. Please note that this dataset is intended for research purposes, and its usage is subject to any applicable terms and conditions.
 
-For dataset access or inquiries, please contact g_jyothishlal@cb.amrita.edu (Dr.Jyothish Lal.G).
+For dataset access or inquiries, please contact g_jyothishlal@cb.amrita.edu (Dr. Jyothish Lal.G).
 
 |Emotions | Audio File | Text |
 |---------|------------|------|
@@ -9,6 +9,16 @@ For dataset access or inquiries, please contact g_jyothishlal@cb.amrita.edu (Dr.
 |Happy| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/230abd46-940e-4ea6-92eb-e35c5e225c24)| എൻ്റെ ഈശ്വരാ ഇത് ആരാ ഈ എഴുന്നള്ളിയിരിക്കുന്നത് എന്താണാവോ വിശേഷം.|
 |Happy|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/b1c80462-f285-42e6-a54d-1e88ede79992)|ഇത് കഴിച്ചു കഴിഞ്ഞു ചിരിച്ചാൽ പിന്നെ ചിരി നിർത്താൻ പറ്റില്ല.|
 |Neutral|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/62296f89-8fb3-4e20-b706-1b35938555d6)|ഒരിടത്ത് ഒരിടത്ത്  ഒരു ഗ്രാമത്തിൽ അമാവാസി എന്ന പേരയായ ഒരു ധനികൻ ഉണ്ടായിരുന്നു.| 
+|Neutral|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/60dba643-c383-44ab-935b-180c2adbac97)|പത്രങ്ങളും പണിയായുധങ്ങളും മറ്റും വാടകക്ക് കൊടുക്കുന്നതാണ് അയാളുടെ പ്രധാന വരുമാനം.|
+|Sad|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/9355f6b6-410d-4403-ae82-a6606071d2da)|കിട്ടുന്ന ശമ്പളവും ആരോടെക്കെയോ കടം വാങ്ങിയ പണവുമെല്ലാം ഇവിടെ കൊണ്ടുവന്നു ചെലവാകുകയാണ്.|
+|Sad|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/d4817a49-f958-420f-9663-d97791a9d4bb)|ഈ നടുപുഴയിൽ ഇത്രയും നാട്ടുകാരെ  വെറുതേ എന്തിനാണ് ഉപദ്രവിക്കുന്നത്.|
+
+
+
+
+
+
+
 
 
 
