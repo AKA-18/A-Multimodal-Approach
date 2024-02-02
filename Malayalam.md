@@ -2,7 +2,7 @@
 
 We are pleased to share a sample dataset for Malayalam language, curated for emotion recognition research. The dataset comprises three key columns: Emotions, Audio Files, and Text Files. Each entry in the dataset has been meticulously annotated to facilitate the development and evaluation of emotion recognition algorithms. The full dataset is available upon request. Researchers and developers interested in obtaining the complete dataset for further exploration and analysis are invited to contact us. Please note that this dataset is intended for research purposes, and its usage is subject to any applicable terms and conditions.
 
-For dataset access or inquiries, please contact g_jyothishlal@cb.amrita.edu (Dr. Jyothish Lal.G).
+For dataset access or inquiries, please contact.
 
 ## Sample Data for Malayalam Emotion Recognition
 
