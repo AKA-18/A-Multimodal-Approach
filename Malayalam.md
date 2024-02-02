@@ -1,5 +1,5 @@
 
-# Sample Data Used in the Study - Enhancing Emotion Recognition in Low-Resource Languages: A Multimodal Approach
+# Sample Malaylam data used in the Study - Enhancing Emotion Recognition in Low-Resource Languages: A Multimodal Approach
 
 
 
@@ -14,7 +14,21 @@
 |Sad|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/9355f6b6-410d-4403-ae82-a6606071d2da)|കിട്ടുന്ന ശമ്പളവും ആരോടെക്കെയോ കടം വാങ്ങിയ പണവുമെല്ലാം ഇവിടെ കൊണ്ടുവന്നു ചെലവാകുകയാണ്.|
 |Sad|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/d4817a49-f958-420f-9663-d97791a9d4bb)|ഈ നടുപുഴയിൽ ഇത്രയും നാട്ടുകാരെ  വെറുതേ എന്തിനാണ് ഉപദ്രവിക്കുന്നത്.|
 
+## Sample Data for Telugu Emotion Recognition
 
+|Emotions | Audio File | Text |
+|---------|------------|------|
+|Angry| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/d98f1e46-9d52-4ca3-ad76-2aa38ede5c8c) | తల్లిదండ్రులను గౌరవించవలె. |
+|Angry| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/6a6958bd-3431-4f48-a63b-6a9b69f33517) | ఈరోజు వాతావరణం పొడిగా ఉంది. |
+|Compassion| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/5c3cb327-0c9c-4ff7-8771-2e00c85ce5b2) |ఎల్లప్పుడూ సత్యమునే పలుకవలెను.  |
+|Compassion| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/4645b891-bd7b-4db9-9c2d-74e21cbb064f) | ఈరోజు నేను తెనాలి వెళుతున్నాను. |
+|Happy| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/3a8f098f-b59b-4d4c-9252-8dcd81345323) | అన్ని దానాలలో విద్యాదానం మిన్న. |
+|Happy| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/24e9ea3e-1aaa-42c2-8f83-44e8486901ca) | ఉచిత సలహాలు ఇవ్వరాదు. |
+|Neutral| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/e40a94fa-a728-4547-b7f1-21107cb68046) | దేశవాసులు అందరూ సమైక్యతతో మెలగవలెను.  |
+|Neutral| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/5decec7c-4ee2-4289-a442-0956a6bfb4c8) |మన రాష్ట్ర రాజధాని హైదరాబాద్.  |
+
+
+*Note:* The complete dataset is available upon request to the original authors.
 
 
 
