@@ -28,9 +28,6 @@ Dataset Source: Koolagudi, S.G., Maity, S., Kumar, V.A., Chakrabarti, S., Rao, K
 |Neutral| [Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/5decec7c-4ee2-4289-a442-0956a6bfb4c8) |మన రాష్ట్ర రాజధాని హైదరాబాద్.  |
 
 
-*Note:* The complete dataset is available upon request to the original authors.
-
-
 
 
 
