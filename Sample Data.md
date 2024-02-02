@@ -14,7 +14,7 @@ Dataset Source: Pravena, D., Govind, D., 2017e. Development of simulated emotion
 |Sad|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/9355f6b6-410d-4403-ae82-a6606071d2da)|കിട്ടുന്ന ശമ്പളവും ആരോടെക്കെയോ കടം വാങ്ങിയ പണവുമെല്ലാം ഇവിടെ കൊണ്ടുവന്നു ചെലവാകുകയാണ്.|
 |Sad|[Play Audio](https://github.com/AKA-18/Enhancing-Emotion-Recognition-in-Low-Resource-Languages-A-Multimodal-Approach/assets/101402724/d4817a49-f958-420f-9663-d97791a9d4bb)|ഈ നടുപുഴയിൽ ഇത്രയും നാട്ടുകാരെ  വെറുതേ എന്തിനാണ് ഉപദ്രവിക്കുന്നത്.|
 
-# # Sample Telugu data used in the Study - Enhancing Emotion Recognition in Low-Resource Languages: A Multimodal Approach
+#  Sample Telugu data used in the Study - Enhancing Emotion Recognition in Low-Resource Languages: A Multimodal Approach
 Dataset Source: Koolagudi, S.G., Maity, S., Kumar, V.A., Chakrabarti, S., Rao, K.S., 2009. "IITKGP-SESC: Speech Database for Emotion Analysis." In: Communications in Computer and Information Science, pp. 485–492.
 |Emotions | Audio File | Text |
 |---------|------------|------|
